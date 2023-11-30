@@ -4,7 +4,7 @@
 For finding the email of any professor/teaching assistant, all you have to go is go to Google and type in "{Professor Name} University of Debrecen".
 It will lead you to a profile page with the professor's name and email.
 
-For example, if you want to find the email of a professor named "Vladimir Ballsinsky", you would search "Vladimir Ballsinsky University of Debrecen" to find the email.
+For example, if you want to find the email of a professor named "Michael Scottinsky", you would search "Michael Scottinsky University of Debrecen" to find the email.
 
 ## Office hours of a professor
 For finding office hours of any professor/teaching assistant in the University of Debrece, follow these steps:
