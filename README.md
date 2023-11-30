@@ -1,5 +1,7 @@
 # Useful Information of Informatics faculty students
 
+<br>
+
 ## Finding emails of a professor
 For finding the email of any professor/teaching assistant, all you have to go is go to Google and type in "{Professor Name} University of Debrecen".
 It will lead you to a profile page with the professor's name and email.
