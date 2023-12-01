@@ -13,6 +13,9 @@ For finding office hours of any professor/teaching assistant in the University o
 1. Go to [inf.unideb.hu](https://inf.unideb.hu) (Open this in a new tab) and login using your eLearning/Neptun info.
 2. Go to [Office hours](https://inf.unideb.hu/oktatoi-fogadoorak).
 3. There will be two types of office hours there, the top is for the normal period (throughout the semester) while the bottom is for during exam period (Around May and December)
+
+
+## [The 2023/2024 timetable of the academic year for the Faculty of Informatics](https://unideb.hu/20232024-tanev-idobeosztasa-az-informatikai-karon)
 <br>
 <br>
 <br>
